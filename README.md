@@ -12,6 +12,6 @@ If you are a Mécène, a great sponsor by donations or simply by encouragements,
 - On Android, you can download it from :
   - this repository in the [Realease Page](https://github.com/scientificware/FXMessages/releases).
   - the Amazon App Store [FXMessage X1](https://www.amazon.fr/ScientificWare-FXMessages-X1/dp/B07NWSSLKZ/)
-  - we also post an Android apk Google Play : [FXMessages X1](https://play.google.com/store/apps/details?id=com.fxmessages).
+  - we also post an Android apk in Google Play : [FXMessages X1](https://play.google.com/store/apps/details?id=com.fxmessages).
   
   We did it for our own tests with Android API, JavaFX port and Play Store process. Presently, only [OpenJFX #118](https://github.com/javafxports/openjdk-jfx/issues/118) solutions are implemented. You won't find other functionnalities, we are still working on them. But you're free to use it and to comment.
