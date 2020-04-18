@@ -77,6 +77,7 @@
     MATRICE_CARREE_D_ORDRE_N.setLocal("","");
     MATRICE_UNITE_D_ORDRE_2.setLocal("","");
     MATRICE_UNITE_D_ORDRE_3.setLocal("","");
+    MATRICE_UNITE_D_ORDRE_N.setLocal("","");
     MOINS.setLocal("menos",".menos");
     MOINS_PLUS.setLocal("menos o más","");
     MU_MAJUSCULE.setLocal("mi mayúscula",".Mi");
