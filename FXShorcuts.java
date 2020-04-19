@@ -365,7 +365,7 @@ public abstract class FXShortCuts {
     FXShortCut ACCOLADE_SUPERIEURE = new FXShortCut("⏞", "Insert ⏞", ".hb", ".acs", "", "Carac");
     FXShortCut EST_DIFFERENT_DE = new FXShortCut("≠", "différent de", ".diff", ".diff", "", "Carac");
     FXShortCut TRES_SUPERIEUR_A = new FXShortCut("≫", "très supérieur à", ".>>", ".>>", "", "Carac");
-    FXShortCut INCONNU_001 = new FXShortCut("≣", "Insert ≣", "..=--", "..=--", "", "Carac");
+    FXShortCut STRICTEMENT_EQUIVALENT_A = new FXShortCut("≣", "Insert ≣", "..=--", "..=--", "", "Carac");
     FXShortCut TRES_INFERIEUR_A = new FXShortCut("≪", "très inférieur à", ".<<", ".<<", "", "Carac");
     FXShortCut EST_INCLUS_DANS = new FXShortCut("<math><mi>⊂</mi></math>", "inclus dans", ".inc", ".inc", "", "Carac");
     FXShortCut CONTIENT = new FXShortCut("⊃", "contient", ".co", ".co", "", "Carac");
