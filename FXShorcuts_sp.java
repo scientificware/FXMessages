@@ -57,7 +57,7 @@
     I.setLocal("","");
     IL_EXISTE.setLocal("","");
     IMPLIQUE.setLocal("","","");
-    INCONNU_001.setLocal("","");
+    STRICTEMENT_EQUIVALENT_A.setLocal("","");
     INDICE.setLocal("","","");
     INDICE_ET_EXPOSANT.setLocal("","");
     INFERIEUR_OU_EGAL_A.setLocal("","","");
