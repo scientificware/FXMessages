@@ -1,5 +1,5 @@
 # FXMessages
-`FXMessages` is a small Java and JavaFX application we created to test [JDK-8210970](https://bugs.openjdk.java.net/browse/JDK-8210970) [OpenJFX #118](https://github.com/javafxports/openjdk-jfx/issues/118) solutions and make demos.
+`FXMessages` is a small Java and JavaFX application we created to test [JDK-8210970](https://bugs.openjdk.java.net/browse/JDK-8210970) id est [OpenJFX #118](https://github.com/javafxports/openjdk-jfx/issues/118) solutions and make demos.
 
 It should become a communication app like Google Messages but with scientifical writing capabilities.
 
