@@ -1,7 +1,7 @@
 # FXMessages
 `FXMessages` is a small Java and JavaFX application we created to test [JDK-8210970](https://bugs.openjdk.java.net/browse/JDK-8210970) id est [OpenJFX #118](https://github.com/javafxports/openjdk-jfx/issues/118) solutions and make demos.
 
-It should become a communication app like Google Messages but with scientifical writing capabilities.
+It should become a communication app like Google Messages but with scientifical writing capabilities. In fact, FXMessages is a set of applications, which also include scientific documents related the [European Qualifications Framwork](https://europa.eu/europass/en/european-qualifications-framework-eqf) levels.
 
 If you are a Mécène, a great sponsor by donations or simply by encouragements, suggestions, we invite you to contact us at info@scientificware.com, post an issue in this repository, a comment through [Twitter](https://twitter.com/ScientificWare) or [Google Play](https://play.google.com/store/apps/details?id=com.fxmessages).
 
